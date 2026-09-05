@@ -4,4 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Road+Rage&pause=1000&color=E7E8C1&background=787091&center=true&vCenter=true&width=435&lines=Everyone+is+tangled+up+in+lies!;WIP+okay+%3F;Tangled+up+in+lies%2C+I+am+a+phony+.)](https://git.io/typing-svg)
 
+ [atabook](https://vrezensky.atabook.org) # [main](https://github.com/vrezensky)
+ 
 </div>
