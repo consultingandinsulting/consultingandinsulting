@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Road+Rage&pause=1000&color=E7E8C1&background=787091&center=true&vCenter=true&width=435&lines=Everyone+is+tangled+up+in+lies!;WIP+okay+%3F;Tangled+up+in+lies%2C+I+am+a+phony+.)](https://git.io/typing-svg)
 
-[![Tak-berjudul688-20260910214504.png](https://i.postimg.cc/D0kWX9M8/Tak-berjudul688-20260910214504.png)](https://github.com/vrezensky)
+![Tak-berjudul688-20260910214504.png](https://i.postimg.cc/D0kWX9M8/Tak-berjudul688-20260910214504.png)
 
 <sub> art by [vrezensky!](https://github.com/vrezensky) </sub>
 
